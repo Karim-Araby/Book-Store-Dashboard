@@ -6,22 +6,22 @@ This project presents an interactive Book Store Dashboard created using Power BI
 
 # Tools Used
 
--Power BI
+- Power BI
 
--DAX
+- DAX
 
--Data Modeling
+- Data Modeling
 
--Interactive Visualizations
+- Interactive Visualizations
 
 # Key Insights
 
--Quarterly ordered books analysis
+- Quarterly ordered books analysis
 
--Most popular book genres and formats
+- Most popular book genres and formats
 
--Top 10 checked-out books
+- Top 10 checked-out books
 
--Publisher distribution
+- Publisher distribution
 
 - Marketing spend overview
